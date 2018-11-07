@@ -12,13 +12,13 @@ void arvbin_inserir(struct arvbin* arv, void* dado)
 	// Insira aqui o codigo da sua solucao do exercicio 2
 }
 
-struct arvbin_no* arvbin_minimo(struct arvbin* arv)
+struct arvbin_no* arvbin_minimo(struct arvbin* arv, struct arvbin_no* no)
 {
 	// Substitua o codigo abaixo pela sua solucao do exercicio 3
 	return NULL;
 }
 
-struct arvbin_no* arvbin_maximo(struct arvbin* arv)
+struct arvbin_no* arvbin_maximo(struct arvbin* arv, struct arvbin_no* no)
 {
 	// Substitua o codigo abaixo pela sua solucao do exercicio 4
 	return NULL;
